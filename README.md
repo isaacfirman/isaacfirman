@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey, I'm Isaac! 👋
+
+Full Stack Web Developer && Unity Game Developer
 
 <!--
 **isaacfirman/isaacfirman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
